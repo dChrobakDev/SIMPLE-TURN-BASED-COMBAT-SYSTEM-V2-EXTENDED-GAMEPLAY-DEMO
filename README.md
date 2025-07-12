@@ -56,7 +56,7 @@ Aspiring Game Developer
 
 1. Attack		     4. DMG buff [15% CD 5]
 2. Heal [20HP CD 6]	5. Defense buff [15% CD 4]
-3. Dodge [CD 3]		  6. Skip round
+3. Dodge [CD 3]		6. Skip round
 CHOOSE ACTION
 1
 Normal attack [10 DMG]
