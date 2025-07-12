@@ -54,7 +54,7 @@ Aspiring Game Developer
 ```text
 --- Round #1 ---
 
-1. Attack		     4. DMG buff [15% CD 5]
+1. Attack		4. DMG buff [15% CD 5]
 2. Heal [20HP CD 6]	5. Defense buff [15% CD 4]
 3. Dodge [CD 3]		6. Skip round
 CHOOSE ACTION
